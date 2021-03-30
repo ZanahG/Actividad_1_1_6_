@@ -5,15 +5,15 @@
 }
 
 body{
-    font-family: "open sans";
     background: url(img/Background.jpg);
     background-size: cover;
     background-position: center;
-    }
+}
 
-    @font-face{
-        font-family: "MiFuente";
-        src: url("Fonts/Roboto-Light.ttf");}
+@font-face{
+    font-family: "MiFuente";
+    src: url("Fonts/Roboto-Light.ttf");
+}
 
 .contenedor{
     padding: 60px 0;
